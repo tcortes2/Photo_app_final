@@ -1,0 +1,11 @@
+.cs142-userphotos-thumbnail {
+    border-radius: 8px;
+    max-width: 20%;
+    height: auto;
+}
+
+.cs142-userphotos-modal {
+    border-radius: 8px;
+    max-width: 70%;
+    height: auto;
+}

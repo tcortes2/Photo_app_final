@@ -1,0 +1,9 @@
+.cs142-userDetail-avatar {
+    background-color: blue;
+}
+
+.cs142-userDetail-thumbnail {
+    border-radius: 8px;
+    max-width: 20%;
+    height: auto;
+}

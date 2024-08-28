@@ -1,0 +1,28 @@
+Project #8 - Submission form
+
+Story number and name: 1 - Extend user profile detail with usage
+Story points: 3
+Brief description to see the story in action: UserDetail now has a thumbnail with a most recent and most commented on photo. 
+Clicking this thumnail takes you to the image on the userphotos page.
+
+Story number and name: 3 - Visibility Control on Photos
+Story points: 4
+Brief description to see the story in action: When you click upload a modal view will pop up with a list of all the users. 
+Select who you want to view or don't select anybody and everyone is added to the visibility of the photo.
+
+Story number and name: 6 - Photo Like Votes
+Story points: 4
+Brief description to see the story in action: Press Like/Unlike button under every photo to like the image. 
+
+Story number and name: 7 - Favorite lists of photos for users
+Story points: 6
+Brief description to see the story in action: On your own UserDetail page, you have the option to click MyFavorites to view the images you have favorited. 
+Favorite by clicking Favorite/Unfavorite under any photo. Click on the image in your favorites list to view modal with date and like-count. Unfavorite on your favorite page. 
+
+Total Story Points: 17
+
+Marketing Video URL (ensure permissions are set to public viewing): https://youtu.be/ZiPRWr3digk
+
+Is it OK with you if we post your Marketing Video URL on the class discussion forum? Yes
+
+Any special instructions for Grading (should be easy to run app from new machine): None

@@ -1,0 +1,39 @@
+.cs142-topbar-appBar {
+  height: 60;
+  justify-content: 'center';
+}
+
+.cs142-topbar-state {
+  position: absolute;
+  right: 20px;
+}
+.cs142-topbar-version {
+  position: relative;
+  left: 200px;
+}
+
+.cs142-topbar-login_name {
+  position: absolute;
+  right: 40%;
+}
+
+.cs142-topbar-logout_button {
+  position: absolute;
+  left: 615px;
+}
+
+.cs142-topbar-upload_botton {
+  position: absolute;
+  left: 225px;
+}
+
+.cs142-topbar-upload_botton2 {
+  position: absolute;
+  left: 250px;
+}
+
+.cs142-topbar-choose_file {
+  position: absolute;
+  top: 25px;
+  left: 50px;
+}
